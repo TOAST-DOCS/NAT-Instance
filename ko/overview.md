@@ -28,4 +28,4 @@ NAT 인스턴스는 프라이빗 네트워크 인스턴스에서 특정 IP 주�
 
 
 ### NAT 인스턴스 접속 방법
-Linux 인스턴스 접속 방법과 동일합니다. [Linux 인스턴스 접속 방법](https://alpha-docs.toast.com/ko/Compute/Instance/ko/overview/#linux)
+Linux 인스턴스 접속 방법과 동일합니다. [Linux 인스턴스 접속 방법](https://docs.toast.com/ko/Compute/Instance/ko/overview/#linux)
