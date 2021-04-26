@@ -28,4 +28,4 @@ This feature is available only in the Pyeongchon region, Korea.
 
 
 ### How to access NAT instance
-This is accessed in the same way as Linux instance. [How to access Linux instance](https://docs.toast.com/ko/Compute/Instance/ko/overview/#linux)
+This is accessed in the same way as Linux instance. [How to access Linux instance](https://docs.toast.com/en/Compute/Instance/en/overview/#how-to-access-linux-instances)
