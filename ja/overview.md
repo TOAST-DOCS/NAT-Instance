@@ -28,4 +28,4 @@ NATインスタンスは、プライベートネットワークインスタン�
 
 
 ### NATインスタンスの接続方法
-Linuxインスタンス接続方法と同じです。[Linuxインスタンスの接続方法](https://docs.toast.com/ja/Compute/Instance/ja/overview/#linux)
+Linuxインスタンス接続方法と同じです。[Linuxインスタンスの接続方法](https://docs.nhncloud.com/ja/Compute/Instance/ja/overview/#linux)
